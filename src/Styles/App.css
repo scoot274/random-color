@@ -1,0 +1,27 @@
+* {
+ background-color: #04293a;
+}
+
+.wrapper {
+ display:grid;
+ place-items: center;
+}
+ 
+.color {
+ padding: 5vh 15vh;
+}
+
+.generate-button {
+ padding: 5vh 11.4vh;
+ background-color: #212121;
+ color: #7d7b7a;
+ border: 1px solid #212121;
+ transition: 0.5s;
+}
+
+.generate-button:hover {
+ padding: 5vh 11.4vh;
+ background-color: #171313;
+ color: #b3b1b1;
+ padding: 6vh 11.4vh;
+}
