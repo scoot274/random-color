@@ -25,3 +25,17 @@
  color: #b3b1b1;
  padding: 6vh 11.4vh;
 }
+
+.remove-button {
+ padding: 5vh 13.47vh;
+ background-color: #E23D55;
+ color: #1b1b1b;
+ border: 1px solid #212121;
+ transition: 0.5s;
+}
+
+.remove-button:hover {
+ padding: 5vh 11.4vh;
+ background-color: #bd192f;
+ padding: 6vh 11.4vh;
+}
